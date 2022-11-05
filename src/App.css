@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "NiteClub-Normal";
+  src: url("NiteClub-Normal.ttf.woff") format("woff"),
+    url("NiteClub-Normal.ttf.svg#NiteClub-Normal") format("svg"),
+    url("NiteClub-Normal.ttf.eot"),
+    url("NiteClub-Normal.ttf.eot?#iefix") format("embedded-opentype");
+  font-weight: normal;
+  font-style: normal;
+}
